@@ -1,6 +1,6 @@
 # TRAVEL and Tour Website
 
-![Design WEB and Mobile](./src/travel-app.png)
+![Design WEB and Mobile](travel-app.png)
 
 ### Built with
 
